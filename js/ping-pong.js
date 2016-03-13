@@ -7,7 +7,7 @@ exports.pingPong = function(goal) {
       output.push("ping");
     } else if (i % 5 === 0) {
       output.push("pong");
-    } else {
+    } else  {
       output.push(i);
     }
   }
