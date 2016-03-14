@@ -1,4 +1,4 @@
-# WARNING - DOWNLOAD ZIP INSTEAD OF CLONING!
+# WARNING - CLONE THIS FILE IT WILL WORK TRUST ME. 
 ### If you clone, it will list me as a contributor and retain all the old commits, and you don't want that. Download Zip instead then change folder name.
 
 =========
