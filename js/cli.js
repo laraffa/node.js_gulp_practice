@@ -4,7 +4,7 @@ prompt.start();
 
 prompt.get('goal', function(err, result) {
   var result = pingPong(result.goal);
-  result.forEach(function(element) {
+  output.forEach(function(element) {
     console.log(element);
   });
 });
